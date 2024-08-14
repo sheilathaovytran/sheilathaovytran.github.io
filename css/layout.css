@@ -71,7 +71,7 @@ body {
 .about-section-content {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 15px;
 }
 
 
