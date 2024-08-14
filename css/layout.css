@@ -52,7 +52,7 @@ body {
 
 #portfolio-header-text-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 34px;
   flex-basis: 50%;
 }
