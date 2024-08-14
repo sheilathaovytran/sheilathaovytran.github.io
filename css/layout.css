@@ -35,6 +35,7 @@ body {
 #portfolio-header {
   display: flex;
   gap: 20px;
+  align-items: center;
 }
 
 #portfolio-header-text-container {
