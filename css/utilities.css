@@ -67,8 +67,10 @@ a.button {
   display: flex;
   gap: 5px;
   align-items: center;
-  float:left;
-  margin:2px;
+}
+
+.button-container {
+  display: flex;
 }
 
 a.button:hover {
