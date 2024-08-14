@@ -71,6 +71,7 @@ a.button {
 
 .button-container {
   display: flex;
+  justify-content: space-between;
 }
 
 a.button:hover {
