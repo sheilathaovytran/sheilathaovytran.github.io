@@ -96,11 +96,13 @@ a.button:hover {
 
 a:link {
   color: black;
-  hover {
+}
+
+a:hover {
+  color: black;
   text-decoration: underline;
   cursor: pointer;
   }
-}
 
 a:visited {
   color: black;
