@@ -103,6 +103,10 @@ a.no-underline:hover {
   cursor: pointer;
 }
 
+a:link, a:visited {
+  text-decoration: none;
+}
+
 /* Small devices (portrait tablets and large phones, 800px and below) */
 @media only screen and (max-width: 800px) {
   #footer {
