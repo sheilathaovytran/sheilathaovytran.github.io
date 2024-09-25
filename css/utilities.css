@@ -93,6 +93,19 @@ a.button:hover {
 }
 
 /* Link Styling */
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
 a.no-underline {
   text-decoration: none;
   color: black
@@ -101,10 +114,6 @@ a.no-underline {
 a.no-underline:hover {
   text-decoration: underline;
   cursor: pointer;
-}
-
-a:link, a:visited {
-  text-decoration: none;
 }
 
 /* Small devices (portrait tablets and large phones, 800px and below) */
