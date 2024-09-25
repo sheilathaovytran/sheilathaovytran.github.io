@@ -99,9 +99,7 @@ a:link {
 }
 
 a:hover {
-  color: black;
   text-decoration: underline;
-  cursor: pointer;
   }
 
 a:visited {
